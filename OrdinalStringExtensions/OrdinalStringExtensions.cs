@@ -1,4 +1,4 @@
-namespace OrdinalStringExtensions
+namespace ktsu.io.OrdinalStringExtensions
 {
 	/// <summary>
 	/// Extension methods for string that use ordinal comparison.
